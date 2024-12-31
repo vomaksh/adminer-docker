@@ -1,7 +1,7 @@
 ## vomaksh/adminer-docker
 
-Adminer in docker with a bunch of plugins.
+My customized version of adminer dockerized.
 
-### LICENSE
+### License
 
 MIT
